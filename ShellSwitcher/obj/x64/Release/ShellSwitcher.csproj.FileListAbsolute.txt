@@ -1,0 +1,6 @@
+f:\Documents\Visual Studio 2017\Projects\ShellSwitcher\ShellSwitcher\bin\x64\Release\ShellSwitcher.exe.config
+f:\Documents\Visual Studio 2017\Projects\ShellSwitcher\ShellSwitcher\bin\x64\Release\ShellSwitcher.exe
+f:\Documents\Visual Studio 2017\Projects\ShellSwitcher\ShellSwitcher\bin\x64\Release\ShellSwitcher.pdb
+f:\Documents\Visual Studio 2017\Projects\ShellSwitcher\ShellSwitcher\obj\x64\Release\ShellSwitcher.csproj.CoreCompileInputs.cache
+f:\Documents\Visual Studio 2017\Projects\ShellSwitcher\ShellSwitcher\obj\x64\Release\ShellSwitcher.exe
+f:\Documents\Visual Studio 2017\Projects\ShellSwitcher\ShellSwitcher\obj\x64\Release\ShellSwitcher.pdb
